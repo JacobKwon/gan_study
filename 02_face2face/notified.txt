@@ -1,0 +1,5 @@
+--DELETE EDIT SOURCECODES--
+
+References:
+https://github.com/datitran/face2face-demo
+https://towardsdatascience.com/face2face-a-pix2pix-demo-that-mimics-the-facial-expression-of-the-german-chancellor-b6771d65bf66
